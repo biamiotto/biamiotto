@@ -37,19 +37,6 @@
   />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=biamiotto&show_icons=true&theme=radical"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamiotto&layout=compact&theme=radical"
-    height="165"
-  />
-</p>
 
 <h2 align="center">⚙️ Minhas Habilidades (Tech Stack)</h2>
 
