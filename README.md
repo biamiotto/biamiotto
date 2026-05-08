@@ -77,7 +77,7 @@
     />
   </a>
 
-  <a href="mailto:[EMAIL_DELA]">
+  <a href="beatriz.m.oliveira10@aluno.senai.br">
     <img 
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" 
     />
