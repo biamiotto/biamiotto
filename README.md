@@ -16,7 +16,7 @@
 - 💅 Quando não estou codando, estou pintando as unhas.
 
 ---
-
+<h1 align="center"> <img src = "https://i.pinimg.com/originals/b4/b8/6e/b4b86e2f95381b402e71fd3089d370ab.gif" width = 180px </h1>
 ### ⚙️ Minhas Habilidades (Tech Stack)
 
 **Linguagens**
