@@ -42,7 +42,7 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=biamiotto&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117"
   />
 
   <img
