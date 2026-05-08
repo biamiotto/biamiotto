@@ -29,14 +29,15 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+## GitHub Stats
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biamiotto&theme=tokyonight" alt="Resumo do Perfil"/>
-</div>
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabiyamamoto&theme=radical" />
 
----
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabiyamamoto&radius=16&theme=rogue&area=true&order=5" height="300"/>
+
 
 ## 🌍 Vamos conectar?
 
