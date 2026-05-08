@@ -37,6 +37,20 @@
   />
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117"
+  />
+</p>
+
 <h2 align="center">⚙️ Minhas Habilidades (Tech Stack)</h2>
 
 <h3 align="center">Linguagens</h3>
