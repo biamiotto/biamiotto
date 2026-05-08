@@ -8,42 +8,71 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+<h2 align="center">👩‍💻 Sobre mim</h2>
 
-- 🎓 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI.
-- 💻 Focada em **Full-Stack** (Back-end & Front-end).
-- 🎨 Adoro explorar UI/UX Design e criatividade.
-- 💅 Quando não estou codando, estou pintando as unhas.
-
----
-<h1 align="center"> <img src = "https://i.pinimg.com/originals/b4/b8/6e/b4b86e2f95381b402e71fd3089d370ab.gif" width = 180px </h1>
-### ⚙️ Minhas Habilidades (Tech Stack)
-
-**Linguagens**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs&theme=dark)](https://skillicons.dev)
-
-**Frameworks & Ferramentas**
-
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,postgres&theme=dark)](https://skillicons.dev)
+<p align="center">
+  🎓 Atualmente cursando <b>Desenvolvimento de Sistemas</b> no SENAI.<br>
+  💻 Focada em <b>Full-Stack</b> (Back-end & Front-end).<br>
+  🎨 Adoro explorar UI/UX Design e criatividade.<br>
+  💅 Quando não estou codando, estou pintando as unhas.
+</p>
 
 ---
 
-## 🌍 Vamos conectar?
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/b4/b8/6e/b4b86e2f95381b402e71fd3089d370ab.gif" 
+    width="180px"
+  />
+</p>
 
-<div align="left">
+---
+
+<h2 align="center">⚙️ Minhas Habilidades (Tech Stack)</h2>
+
+<h3 align="center">Linguagens</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=js,html,css,py,nodejs&theme=dark" 
+    />
+  </a>
+</p>
+
+<h3 align="center">Frameworks & Ferramentas</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=git,vscode,postman,postgres&theme=dark" 
+    />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌍 Vamos conectar?</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/[LINKEDIN_DELA]/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" 
+    />
   </a>
-  &nbsp;
+
   <a href="https://www.instagram.com/biaa.miotto" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
+    <img 
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" 
+    />
   </a>
-  &nbsp;
+
   <a href="mailto:[EMAIL_DELA]">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
+    <img 
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" 
+    />
   </a>
-</div>
+</p>
 
 ---
 
