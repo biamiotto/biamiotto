@@ -28,6 +28,15 @@
 
 ---
 
+<h2 align="center">📈 Minhas Contribuições</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biamiotto&theme=tokyo-night&bg_color=0d1117&color=ff9ecb&line=ff9ecb&point=f8c8dc&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
+
 <h2 align="center">⚙️ Minhas Habilidades (Tech Stack)</h2>
 
 <h3 align="center">Linguagens</h3>
